@@ -1,0 +1,20 @@
+body {
+    background-color: black;
+    color: white;
+
+}
+h1{
+    color: rgb(132, 99, 99);
+    text-align: center;
+}
+h3{
+    text-align: center;
+    color: whitesmoke
+}
+button{
+    margin-left: 1180px;
+}
+img{
+    margin-left: 225px;
+    
+}
