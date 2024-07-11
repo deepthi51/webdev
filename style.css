@@ -4,7 +4,7 @@ body {
 
 }
 h1{
-    color: rgb(132, 99, 99);
+   color: rgb(65, 113, 128);
     text-align: center;
 }
 h3{
@@ -17,4 +17,7 @@ button{
 img{
     margin-left: 225px;
     
+}
+footer{
+    text-align:center ;
 }
